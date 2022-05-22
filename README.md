@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krutik Jain</h1>
-<h3 align="center">India based Full Stack Devloper with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply able to contribute to the technology industry with all my knowledge. I have done work in Website development, mobile app creation, front-end/back-end, database management.</h3>
+<h3 align="center">India based Full Stack Devloper with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and with best code practices.</h3> 
+<h3 align="center">My objective is simply able to contribute to the technology industry with all my knowledge.</h3> 
+<h3 align="center">I have done work in Website development, mobile app creation, front-end/back-end, database management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikjain&label=Profile%20views&color=0e75b6&style=flat" alt="krutikjain" /> </p>
 
