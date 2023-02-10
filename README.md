@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/i_m_krutik" target="blank"><img src="https://img.shields.io/twitter/follow/i_m_krutik?logo=twitter&style=for-the-badge" alt="i_m_krutik" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.cwkonline.xyz/](https://www.cwkonline.xyz/)
+- 👨‍💻 All of my projects are available at [https://www.krutikjain.com](https://www.krutikjain.com/)
 
 - 📫 How to reach me **krutikjain88@gmail.com**
 
-- 📄 Know about my experiences [https://www.cwkonline.xyz/wp-content/uploads/resume.pdf](https://www.cwkonline.xyz/wp-content/uploads/resume.pdf)
+- 📄 Know about my experiences [resume.pdf](https://www.krutikjain.com/wp-content/uploads/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
